@@ -48,8 +48,7 @@ Streamlit, Joblib
 Dataset: https://drive.google.com/file/d/1C7tcEdnRIlxwIsFnsN6F0jkpU1FRlieS/view?usp=sharing
 
 1️⃣ Clone the repo
-git clone https://github.com/samruddhivarkhade/emi-predict-ai.git
-cd emi-predict-ai
+git clone 
 
 2️⃣ Install dependencies
 pip install -r requirements.txt
