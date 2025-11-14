@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/hp/Desktop/EMI%20Predict%20AI/mlruns/730168603402007372/d9326811d7594419881279824373ad34/artifacts
+end_time: 1762550807864
+entry_point_name: ''
+experiment_id: '730168603402007372'
+lifecycle_stage: active
+run_id: d9326811d7594419881279824373ad34
+run_name: gregarious-ape-99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762550803245
+status: 3
+tags: []
+user_id: hp

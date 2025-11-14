@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/hp/Desktop/EMI%20Predict%20AI/mlruns/498753872979799885/a0483aa292fa460a8cae4212c3c4ac44/artifacts
+end_time: 1762550869595
+entry_point_name: ''
+experiment_id: '498753872979799885'
+lifecycle_stage: active
+run_id: a0483aa292fa460a8cae4212c3c4ac44
+run_name: nervous-horse-555
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762550867464
+status: 3
+tags: []
+user_id: hp

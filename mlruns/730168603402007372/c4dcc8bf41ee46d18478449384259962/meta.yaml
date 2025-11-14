@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/hp/Desktop/EMI%20Predict%20AI/mlruns/730168603402007372/c4dcc8bf41ee46d18478449384259962/artifacts
+end_time: 1762550063829
+entry_point_name: ''
+experiment_id: '730168603402007372'
+lifecycle_stage: active
+run_id: c4dcc8bf41ee46d18478449384259962
+run_name: clean-ray-510
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762550063546
+status: 4
+tags: []
+user_id: hp

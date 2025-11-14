@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/hp/Desktop/EMI%20Predict%20AI/mlruns/498753872979799885/4a2970cbb541486185845b06b8656917/artifacts
+end_time: 1762550093392
+entry_point_name: ''
+experiment_id: '498753872979799885'
+lifecycle_stage: active
+run_id: 4a2970cbb541486185845b06b8656917
+run_name: silent-hog-47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762550093183
+status: 4
+tags: []
+user_id: hp

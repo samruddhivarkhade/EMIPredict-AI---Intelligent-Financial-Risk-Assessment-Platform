@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/hp/Desktop/EMI%20Predict%20AI/mlruns/498753872979799885/a5ff15a0113448d5a88cd3bf379c4eed/artifacts
+end_time: 1762550278210
+entry_point_name: ''
+experiment_id: '498753872979799885'
+lifecycle_stage: active
+run_id: a5ff15a0113448d5a88cd3bf379c4eed
+run_name: rare-wren-309
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762550276785
+status: 3
+tags: []
+user_id: hp

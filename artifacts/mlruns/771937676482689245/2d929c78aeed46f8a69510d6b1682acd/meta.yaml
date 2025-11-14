@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/hp/Desktop/EMI Predict AI/artifacts/mlruns/771937676482689245/2d929c78aeed46f8a69510d6b1682acd/artifacts
+end_time: 1762549103598
+entry_point_name: ''
+experiment_id: '771937676482689245'
+lifecycle_stage: active
+run_id: 2d929c78aeed46f8a69510d6b1682acd
+run_name: classification_LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762549103251
+status: 4
+tags: []
+user_id: hp

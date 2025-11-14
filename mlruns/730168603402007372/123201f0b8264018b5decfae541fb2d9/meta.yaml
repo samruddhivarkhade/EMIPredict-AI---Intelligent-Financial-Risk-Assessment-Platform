@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/hp/Desktop/EMI%20Predict%20AI/mlruns/730168603402007372/123201f0b8264018b5decfae541fb2d9/artifacts
+end_time: 1762550246884
+entry_point_name: ''
+experiment_id: '730168603402007372'
+lifecycle_stage: active
+run_id: 123201f0b8264018b5decfae541fb2d9
+run_name: polite-sheep-718
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762550242614
+status: 3
+tags: []
+user_id: hp
