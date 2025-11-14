@@ -44,6 +44,9 @@ App & Deployment:
 Streamlit, Joblib
 
 ⚙️ Installation
+
+Dataset: EMI_dataset
+
 1️⃣ Clone the repo
 git clone https://github.com/samruddhivarkhade/emi-predict-ai.git
 cd emi-predict-ai
